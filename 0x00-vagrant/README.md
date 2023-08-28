@@ -1,0 +1,1 @@
+ssh 34c07bf67713@34c07bf67713.3b7309a3.alx-cod.online
